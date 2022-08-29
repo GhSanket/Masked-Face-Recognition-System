@@ -1,0 +1,2 @@
+# Masked-Face-Recognition-System
+The world is currently under the impact of COVID-19. Wearing face masks has become mandatory for all. Face recognition systems have become inefficient as most of the face remains covered so it becomes difficult to identify the faces. With our project we aim to solve this problem by training our model with occluded faces. We plan to use CNN i.e. Convolutional neural networks to extract the features of the face and identify it.
